@@ -1,0 +1,39 @@
+[18:46:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:46:33] [ServerMain/INFO]: No existing world data, creating new world
+[18:46:34] [ServerMain/INFO]: Loaded 1370 recipes
+[18:46:34] [ServerMain/INFO]: Loaded 1481 advancements
+[18:46:34] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:46:34] [Server thread/INFO]: Loading properties
+[18:46:34] [Server thread/INFO]: Default game type: SURVIVAL
+[18:46:34] [Server thread/INFO]: Generating keypair
+[18:46:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:34] [Server thread/INFO]: Using epoll channel type
+[18:46:34] [Server thread/INFO]: Preparing level "world"
+[18:46:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[18:46:41] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[18:46:41] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[18:46:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[18:46:42] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[18:46:43] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[18:46:43] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[18:46:44] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[18:46:44] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[18:46:45] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[18:46:45] [Server thread/INFO]: Time elapsed: 4694 ms
+[18:46:45] [Server thread/INFO]: Done (10.845s)! For help, type "help"
+[18:47:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:54:16] [User Authenticator #1/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[18:54:19] [Server thread/INFO]: FacuD1s[/127.92.72.134:42125] logged in with entity id 14 at (-71.5, 72.0, -133.5)
+[18:54:19] [Server thread/INFO]: FacuD1s joined the game
+[18:57:22] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[18:57:22] [Server thread/INFO]: FacuD1s left the game
+[18:58:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:02:54] [User Authenticator #2/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[19:02:55] [Server thread/INFO]: FacuD1s[/127.92.72.134:46097] logged in with entity id 1194 at (-124.56038229998006, 63.0, -113.45408562798393)
+[19:02:55] [Server thread/INFO]: FacuD1s joined the game
+[19:04:47] [Server thread/INFO]: Made FacuD1s a server operator
+[19:04:49] [Server thread/INFO]: [FacuD1s: Set own game mode to Creative Mode]
+[19:04:52] [Server thread/INFO]: FacuD1s has reached the goal [Sky's the Limit]
+[19:05:53] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[19:05:53] [Server thread/INFO]: FacuD1s left the game
