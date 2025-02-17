@@ -1,40 +1,90 @@
-[18:46:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:46:33] [ServerMain/INFO]: No existing world data, creating new world
-[18:46:34] [ServerMain/INFO]: Loaded 1370 recipes
-[18:46:34] [ServerMain/INFO]: Loaded 1481 advancements
-[18:46:34] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[18:46:34] [Server thread/INFO]: Loading properties
-[18:46:34] [Server thread/INFO]: Default game type: SURVIVAL
-[18:46:34] [Server thread/INFO]: Generating keypair
-[18:46:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:46:34] [Server thread/INFO]: Using epoll channel type
-[18:46:34] [Server thread/INFO]: Preparing level "world"
-[18:46:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:46:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[18:46:41] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[18:46:41] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[18:46:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[18:46:42] [Worker-Main-1/INFO]: Preparing spawn area: 16%
-[18:46:43] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[18:46:43] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[18:46:44] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[18:46:44] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[18:46:45] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[18:46:45] [Server thread/INFO]: Time elapsed: 4694 ms
-[18:46:45] [Server thread/INFO]: Done (10.845s)! For help, type "help"
-[18:47:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:54:16] [User Authenticator #1/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
-[18:54:19] [Server thread/INFO]: FacuD1s[/127.92.72.134:42125] logged in with entity id 14 at (-71.5, 72.0, -133.5)
-[18:54:19] [Server thread/INFO]: FacuD1s joined the game
-[18:57:22] [Server thread/INFO]: FacuD1s lost connection: Disconnected
-[18:57:22] [Server thread/INFO]: FacuD1s left the game
-[18:58:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:02:54] [User Authenticator #2/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
-[19:02:55] [Server thread/INFO]: FacuD1s[/127.92.72.134:46097] logged in with entity id 1194 at (-124.56038229998006, 63.0, -113.45408562798393)
-[19:02:55] [Server thread/INFO]: FacuD1s joined the game
-[19:04:47] [Server thread/INFO]: Made FacuD1s a server operator
-[19:04:49] [Server thread/INFO]: [FacuD1s: Set own game mode to Creative Mode]
-[19:04:52] [Server thread/INFO]: FacuD1s has reached the goal [Sky's the Limit]
-[19:05:53] [Server thread/INFO]: FacuD1s lost connection: Disconnected
-[19:05:53] [Server thread/INFO]: FacuD1s left the game
-[19:06:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:45:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:45:05] [ServerMain/INFO]: Loaded 1370 recipes
+[17:45:05] [ServerMain/INFO]: Loaded 1481 advancements
+[17:45:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:45:05] [Server thread/INFO]: Loading properties
+[17:45:05] [Server thread/INFO]: Default game type: SURVIVAL
+[17:45:05] [Server thread/INFO]: Generating keypair
+[17:45:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:45:05] [Server thread/INFO]: Using epoll channel type
+[17:45:05] [Server thread/INFO]: Preparing level "world"
+[17:45:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:45:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:45:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:45:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:45:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:45:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:45:08] [Server thread/INFO]: Time elapsed: 2449 ms
+[17:45:08] [Server thread/INFO]: Done (2.719s)! For help, type "help"
+[17:45:12] [User Authenticator #1/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[17:45:14] [Server thread/INFO]: FacuD1s[/127.161.171.253:53995] logged in with entity id 16 at (-343.16269933853295, 76.0, -179.14232493140275)
+[17:45:14] [Server thread/INFO]: FacuD1s joined the game
+[17:52:27] [Server thread/INFO]: FacuD1s has made the advancement [Isn't It Iron Pick]
+[17:53:04] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:53:06] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:53:11] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:53:12] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:53:13] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:53:22] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:53:57] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:54:54] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:54:55] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:55:34] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:56:50] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:57:00] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:57:17] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:57:24] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:57:26] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[17:57:26] [Server thread/INFO]: FacuD1s left the game
+[17:57:29] [User Authenticator #2/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[17:57:32] [Server thread/INFO]: FacuD1s[/127.161.171.253:36397] logged in with entity id 2329 at (-343.6940136246018, 76.0, -180.53031626485028)
+[17:57:32] [Server thread/INFO]: FacuD1s joined the game
+[17:57:34] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:57:36] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:57:50] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[17:57:50] [Server thread/INFO]: FacuD1s left the game
+[17:57:52] [User Authenticator #3/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[17:57:53] [Server thread/INFO]: FacuD1s[/127.161.171.253:40913] logged in with entity id 2773 at (-343.6940136246018, 76.0, -180.53031626485028)
+[17:57:53] [Server thread/INFO]: FacuD1s joined the game
+[17:58:00] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:58:43] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[17:58:43] [Server thread/INFO]: FacuD1s left the game
+[17:58:47] [User Authenticator #4/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[17:58:48] [Server thread/INFO]: FacuD1s[/127.161.171.253:48909] logged in with entity id 3272 at (-343.6940136246018, 76.0, -180.53031626485028)
+[17:58:48] [Server thread/INFO]: FacuD1s joined the game
+[17:58:51] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:59:28] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:59:30] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[17:59:41] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[18:02:30] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[18:02:30] [Server thread/INFO]: FacuD1s left the game
+[18:02:34] [User Authenticator #5/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[18:02:36] [Server thread/INFO]: FacuD1s[/127.161.171.253:55457] logged in with entity id 4022 at (-345.8031845701227, 77.0, -183.8096159874586)
+[18:02:36] [Server thread/INFO]: FacuD1s joined the game
+[18:02:58] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[18:02:58] [Server thread/INFO]: FacuD1s left the game
+[18:03:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:04:11] [User Authenticator #6/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[18:04:13] [Server thread/INFO]: FacuD1s[/127.161.171.253:45349] logged in with entity id 4463 at (-345.8031845701227, 77.0, -183.8096159874586)
+[18:04:13] [Server thread/INFO]: FacuD1s joined the game
+[18:04:19] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[18:04:19] [Server thread/INFO]: FacuD1s left the game
+[18:05:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:05:44] [User Authenticator #7/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
+[18:05:46] [Server thread/INFO]: FacuD1s[/127.161.171.253:52789] logged in with entity id 4901 at (-345.8031845701227, 77.0, -183.8096159874586)
+[18:05:46] [Server thread/INFO]: FacuD1s joined the game
+[18:05:57] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[18:06:03] [Server thread/WARN]: Failed to update secure chat state for FacuD1s: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[18:07:08] [Server thread/INFO]: Stopping the server
+[18:07:08] [Server thread/INFO]: Stopping server
+[18:07:08] [Server thread/INFO]: Saving players
+[18:07:08] [Server thread/INFO]: FacuD1s lost connection: Server closed
+[18:07:08] [Server thread/INFO]: FacuD1s left the game
+[18:07:08] [Server thread/INFO]: Saving worlds
+[18:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:07:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:07:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
