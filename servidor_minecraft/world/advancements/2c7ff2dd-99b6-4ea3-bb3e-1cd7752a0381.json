@@ -974,6 +974,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-17 16:08:44 +0000",
+      "minecraft:piglin": "2025-02-17 23:17:07 +0000",
       "minecraft:spider": "2025-02-17 18:22:38 +0000",
       "minecraft:zombie": "2025-02-17 16:21:45 +0000",
       "minecraft:creeper": "2025-02-17 18:22:46 +0000"
@@ -1838,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-17 23:10:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 22:52:43 +0000"
@@ -1847,6 +1854,18 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 22:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-17 23:16:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-17 23:16:52 +0000"
     },
     "done": true
   },
@@ -1865,6 +1884,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-02-17 22:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-17 23:16:52 +0000"
     },
     "done": true
   },
