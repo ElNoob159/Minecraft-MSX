@@ -1,39 +1,4 @@
-[22:52:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:52:05] [ServerMain/INFO]: Loaded 1370 recipes
-[22:52:05] [ServerMain/INFO]: Loaded 1481 advancements
-[22:52:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[22:52:05] [Server thread/INFO]: Loading properties
-[22:52:05] [Server thread/INFO]: Default game type: SURVIVAL
-[22:52:05] [Server thread/INFO]: Generating keypair
-[22:52:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:52:05] [Server thread/INFO]: Using epoll channel type
-[22:52:05] [Server thread/INFO]: Preparing level "world"
-[22:52:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:52:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:52:08] [Server thread/INFO]: Time elapsed: 2635 ms
-[22:52:08] [Server thread/INFO]: Done (2.885s)! For help, type "help"
-[22:52:16] [User Authenticator #1/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
-[22:52:18] [Server thread/INFO]: FacuD1s[/127.161.171.253:42329] logged in with entity id 9 at (-341.5, 77.875, -179.5)
-[22:52:18] [Server thread/INFO]: FacuD1s joined the game
-[23:10:15] [Server thread/INFO]: FacuD1s has made the advancement [Hot Stuff]
-[23:16:52] [Server thread/INFO]: FacuD1s has made the advancement [We Need to Go Deeper]
-[23:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
-[23:17:21] [Server thread/INFO]: [Not Secure] <FacuD1s> -30 30
-[23:30:11] [Server thread/INFO]: FacuD1s has made the advancement [A Terrible Fortress]
-[23:30:36] [Server thread/INFO]: FacuD1s has made the advancement [Into Fire]
-[23:36:17] [Server thread/INFO]: FacuD1s was slain by Blaze
-[23:41:15] [Server thread/INFO]: FacuD1s lost connection: Disconnected
-[23:41:15] [Server thread/INFO]: FacuD1s left the game
-[23:41:22] [User Authenticator #2/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
-[23:41:23] [Server thread/INFO]: FacuD1s[/127.161.171.253:38521] logged in with entity id 10138 at (-91.18159977362636, 73.0, -204.13171753865538)
-[23:41:23] [Server thread/INFO]: FacuD1s joined the game
-[23:42:14] [Server thread/INFO]: FacuD1s lost connection: Disconnected
-[23:42:14] [Server thread/INFO]: FacuD1s left the game
-[23:42:16] [User Authenticator #3/INFO]: UUID of player FacuD1s is 2c7ff2dd-99b6-4ea3-bb3e-1cd7752a0381
-[23:42:17] [Server thread/INFO]: FacuD1s[/127.161.171.253:54619] logged in with entity id 10387 at (-89.86613219645733, 75.0, -165.9232464206434)
-[23:42:17] [Server thread/INFO]: FacuD1s joined the game
+[00:03:12] [Server thread/INFO]: FacuD1s hit the ground too hard while trying to escape Ghast
+[00:03:15] [Server thread/INFO]: FacuD1s lost connection: Disconnected
+[00:03:15] [Server thread/INFO]: FacuD1s left the game
+[00:04:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
